@@ -1,0 +1,27 @@
+INSERT INTO public."Test"(
+	"Name", "Email", "Number")
+	VALUES ('Pranay','pranay@gmail.com',8758915505);
+
+INSERT INTO public."Test"(
+	"Name", "Email", "Number")
+	VALUES ('Sumit','sumit@gmail.com',78672094);
+
+INSERT INTO public."Test"(
+	"Name", "Email", "Number")
+	VALUES ('Amit','amit@gmail.com',9856743656);
+
+select * from public."Test" where "Name"='Sumit'
+
+insert into public."Test" ("Name","Email","Number") values ('Nisha','nisha@gmail.com',7563968740)
+
+update public."Test" set "Number"='7690487245' where "Name"='Nisha'
+
+select * from public."Test" order by "Name" asc
+
+select * from public."Test" order by "Name" desc
+
+SELECT * FROM public."Test"
+ORDER BY "Name" ASC, "Email" ASC, "Number" ASC
+
+SELECT * FROM public."Test"
+ORDER BY "Name" ASC, "Email" ASC, "Number" ASC
