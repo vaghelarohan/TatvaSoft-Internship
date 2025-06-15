@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ROHAN\\Desktop\\Day5\\Day5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5FE982-07D1-A5C9-4C29-E21D5B88DF06}|StudentApi\\StudentApi.csproj|c:\\users\\rohan\\desktop\\day5\\day5\\studentapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C5FE982-07D1-A5C9-4C29-E21D5B88DF06}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5FE982-07D1-A5C9-4C29-E21D5B88DF06}|StudentApi\\StudentApi.csproj|c:\\users\\rohan\\desktop\\day5\\day5\\studentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C5FE982-07D1-A5C9-4C29-E21D5B88DF06}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5FE982-07D1-A5C9-4C29-E21D5B88DF06}|StudentApi\\StudentApi.csproj|c:\\users\\rohan\\desktop\\day5\\day5\\studentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5FE982-07D1-A5C9-4C29-E21D5B88DF06}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5FE982-07D1-A5C9-4C29-E21D5B88DF06}|StudentApi\\StudentApi.csproj|c:\\users\\rohan\\desktop\\day5\\day5\\studentapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5FE982-07D1-A5C9-4C29-E21D5B88DF06}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5FE982-07D1-A5C9-4C29-E21D5B88DF06}|StudentApi\\StudentApi.csproj|c:\\users\\rohan\\desktop\\day5\\day5\\studentapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5FE982-07D1-A5C9-4C29-E21D5B88DF06}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5FE982-07D1-A5C9-4C29-E21D5B88DF06}|StudentApi\\StudentApi.csproj|c:\\users\\rohan\\desktop\\day5\\day5\\studentapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5FE982-07D1-A5C9-4C29-E21D5B88DF06}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ROHAN\\Desktop\\Day5\\Day5\\StudentApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StudentApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ROHAN\\Desktop\\Day5\\Day5\\StudentApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StudentApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-02T09:57:53.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ROHAN\\Desktop\\Day5\\Day5\\StudentApi\\Program.cs",
+              "RelativeDocumentMoniker": "StudentApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ROHAN\\Desktop\\Day5\\Day5\\StudentApi\\Program.cs",
+              "RelativeToolTip": "StudentApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:42:41.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ROHAN\\Desktop\\Day5\\Day5\\StudentApi\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentApi\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ROHAN\\Desktop\\Day5\\Day5\\StudentApi\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentApi\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:22:27.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ROHAN\\Desktop\\Day5\\Day5\\StudentApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "StudentApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ROHAN\\Desktop\\Day5\\Day5\\StudentApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "StudentApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:22:23.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ROHAN\\Desktop\\Day5\\Day5\\StudentApi\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentApi\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ROHAN\\Desktop\\Day5\\Day5\\StudentApi\\Models\\Student.cs",
+              "RelativeToolTip": "StudentApi\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:05:26.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ROHAN\\Desktop\\Day5\\Day5\\StudentApi\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\ROHAN\\Desktop\\Day5\\Day5\\StudentApi\\appsettings.json",
+              "RelativeToolTip": "StudentApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-02T09:01:58.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ROHAN\\Desktop\\TatvaSoft-Internship\\Day-6\\EmployeAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{017D4F42-9970-4872-95BD-8A54E481A2E9}|EmployeAPI\\EmployeAPI.csproj|c:\\users\\rohan\\desktop\\tatvasoft-internship\\day-6\\employeapi\\employeapi\\controllers\\employecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017D4F42-9970-4872-95BD-8A54E481A2E9}|EmployeAPI\\EmployeAPI.csproj|solutionrelative:employeapi\\controllers\\employecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017D4F42-9970-4872-95BD-8A54E481A2E9}|EmployeAPI\\EmployeAPI.csproj|c:\\users\\rohan\\desktop\\tatvasoft-internship\\day-6\\employeapi\\employeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017D4F42-9970-4872-95BD-8A54E481A2E9}|EmployeAPI\\EmployeAPI.csproj|solutionrelative:employeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017D4F42-9970-4872-95BD-8A54E481A2E9}|EmployeAPI\\EmployeAPI.csproj|c:\\users\\rohan\\desktop\\tatvasoft-internship\\day-6\\employeapi\\employeapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{017D4F42-9970-4872-95BD-8A54E481A2E9}|EmployeAPI\\EmployeAPI.csproj|solutionrelative:employeapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017D4F42-9970-4872-95BD-8A54E481A2E9}|EmployeAPI\\EmployeAPI.csproj|c:\\users\\rohan\\desktop\\tatvasoft-internship\\day-6\\employeapi\\employeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{017D4F42-9970-4872-95BD-8A54E481A2E9}|EmployeAPI\\EmployeAPI.csproj|solutionrelative:employeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017D4F42-9970-4872-95BD-8A54E481A2E9}|EmployeAPI\\EmployeAPI.csproj|c:\\users\\rohan\\desktop\\tatvasoft-internship\\day-6\\employeapi\\employeapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{017D4F42-9970-4872-95BD-8A54E481A2E9}|EmployeAPI\\EmployeAPI.csproj|solutionrelative:employeapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017D4F42-9970-4872-95BD-8A54E481A2E9}|EmployeAPI\\EmployeAPI.csproj|c:\\users\\rohan\\desktop\\tatvasoft-internship\\day-6\\employeapi\\employeapi\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017D4F42-9970-4872-95BD-8A54E481A2E9}|EmployeAPI\\EmployeAPI.csproj|solutionrelative:employeapi\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ROHAN\\Desktop\\TatvaSoft-Internship\\Day-6\\EmployeAPI\\EmployeAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ROHAN\\Desktop\\TatvaSoft-Internship\\Day-6\\EmployeAPI\\EmployeAPI\\appsettings.json",
+              "RelativeToolTip": "EmployeAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T08:30:17.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ROHAN\\Desktop\\TatvaSoft-Internship\\Day-6\\EmployeAPI\\EmployeAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EmployeAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ROHAN\\Desktop\\TatvaSoft-Internship\\Day-6\\EmployeAPI\\EmployeAPI\\appsettings.Development.json",
+              "RelativeToolTip": "EmployeAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T07:01:43.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ROHAN\\Desktop\\TatvaSoft-Internship\\Day-6\\EmployeAPI\\EmployeAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ROHAN\\Desktop\\TatvaSoft-Internship\\Day-6\\EmployeAPI\\EmployeAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T07:01:22.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ROHAN\\Desktop\\TatvaSoft-Internship\\Day-6\\EmployeAPI\\EmployeAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ROHAN\\Desktop\\TatvaSoft-Internship\\Day-6\\EmployeAPI\\EmployeAPI\\Program.cs",
+              "RelativeToolTip": "EmployeAPI\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAcwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T10:02:34.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ROHAN\\Desktop\\TatvaSoft-Internship\\Day-6\\EmployeAPI\\EmployeAPI\\Helpers\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "EmployeAPI\\Helpers\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\ROHAN\\Desktop\\TatvaSoft-Internship\\Day-6\\EmployeAPI\\EmployeAPI\\Helpers\\JwtHelper.cs",
+              "RelativeToolTip": "EmployeAPI\\Helpers\\JwtHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:48:49.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeController.cs",
+              "DocumentMoniker": "C:\\Users\\ROHAN\\Desktop\\TatvaSoft-Internship\\Day-6\\EmployeAPI\\EmployeAPI\\Controllers\\EmployeController.cs",
+              "RelativeDocumentMoniker": "EmployeAPI\\Controllers\\EmployeController.cs",
+              "ToolTip": "C:\\Users\\ROHAN\\Desktop\\TatvaSoft-Internship\\Day-6\\EmployeAPI\\EmployeAPI\\Controllers\\EmployeController.cs",
+              "RelativeToolTip": "EmployeAPI\\Controllers\\EmployeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:05:44.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
